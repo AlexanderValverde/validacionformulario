@@ -1,2 +1,2 @@
 # validacionformulario
-Validación de Formulario usando Javascript
+Validación de Formulario usando JavaScript
